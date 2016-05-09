@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [First Chapter](typface.md)
 * [Typeface](typeface.md)
-* Color Pallette
+* [Color Pallette](color_pallette.md)
 
